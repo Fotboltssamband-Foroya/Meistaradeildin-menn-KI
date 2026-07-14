@@ -2,28 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 3\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:við Margáir
-DTSTART:20260320T183000Z
-SUMMARY:EB/Streymur - KÍ 0:0
-UID:b3a7544f-f602-40b0-a677-3f7319b13b87@b3a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 22\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 1\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
 DURATION:PT2H
 LOCATION:á Dungasandi
-DTSTART:20260913T140000Z
-SUMMARY:07 Vestur - KÍ -:-
-UID:a23a5d40-0ad6-4c54-b009-d63b587faf46@a23a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 14\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:í Sarpugerði
-DTSTART:20260619T173000Z
-SUMMARY:Víkingur - KÍ 2:2
-UID:4d04ea3b-c240-4bd9-813d-768b132c84f9@4d04.org
+DTSTART:20260308T150000Z
+SUMMARY:07 Vestur - KÍ 1:5
+UID:0f899766-d76b-4996-beb5-3b4aa7fe1e90@0f89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 7\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -31,7 +15,7 @@ DURATION:PT2H
 LOCATION:Gundadalur\, ovari vøllur
 DTSTART:20260426T161500Z
 SUMMARY:HB - KÍ 0:2
-UID:bca03692-fa4a-42b5-8f53-56b11ea45f9f@bca0.org
+UID:74dae350-66a7-4644-ac54-6c4426c437b8@74da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 20\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -39,7 +23,23 @@ DURATION:PT2H
 LOCATION:Djúpumýra
 DTSTART:20260823T140000Z
 SUMMARY:KÍ - NSÍ -:-
-UID:fd3b61d9-0212-42b4-b71f-f92ebcca3688@fd3b.org
+UID:2ff9374a-da1e-4785-be99-182595af5f3a@2ff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 14\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:í Sarpugerði
+DTSTART:20260619T173000Z
+SUMMARY:Víkingur - KÍ 2:2
+UID:72c4ac16-003a-4c88-81b7-67ad7d144791@72c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 3\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:við Margáir
+DTSTART:20260320T183000Z
+SUMMARY:EB/Streymur - KÍ 0:0
+UID:8677dc89-95fe-478b-803d-6925c87d9b45@8677.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 5\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -47,23 +47,7 @@ DURATION:PT2H
 LOCATION:Djúpumýra
 DTSTART:20260411T173000Z
 SUMMARY:KÍ - B68 6:1
-UID:11f8b07f-eaa8-4842-bb67-2547233f9ce0@11f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 4\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260406T140000Z
-SUMMARY:KÍ - Víkingur 1:0
-UID:9ede5081-c4b7-4725-8624-bcf5b6f433cd@9ede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 10\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Svangaskarð\, ovari vøllur
-DTSTART:20260517T161500Z
-SUMMARY:B68 - KÍ 1:4
-UID:afefd287-1566-4bc9-a4c0-1274669b488a@afef.org
+UID:801c4452-27e2-46a6-a568-0cd7bdb2c3ac@801c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 24\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -71,15 +55,7 @@ DURATION:PT2H
 LOCATION:Gundadalur\, ovari vøllur
 DTSTART:20261011T140000Z
 SUMMARY:HB - KÍ -:-
-UID:2b85b7b1-cfed-4e1d-9510-c4dc3918a0dd@2b85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 26\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Gundadalur\, ovari vøllur
-DTSTART:20261025T150000Z
-SUMMARY:B36 - KÍ -:-
-UID:6b158edf-968a-44cf-973c-943426f9e671@6b15.org
+UID:58436189-2a4d-4174-b6d5-bccecde6a933@5843.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 19\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -87,63 +63,7 @@ DURATION:PT2H
 LOCATION:inni í Vika
 DTSTART:20260816T161500Z
 SUMMARY:AB - KÍ -:-
-UID:dbd6488a-22db-46cf-aab7-e157c5ff2bce@dbd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 21\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260830T140000Z
-SUMMARY:KÍ - EB/Streymur -:-
-UID:f0444368-dae1-4d9b-b0c7-5539f9adeb38@f044.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 23\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260918T173000Z
-SUMMARY:KÍ - Skála ÍF -:-
-UID:8aa2abdb-c41d-4ea3-8bd0-0965a8bfe069@8aa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 18\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260807T170000Z
-SUMMARY:KÍ - HB -:-
-UID:cdcb6ca1-756d-4fdd-8e19-0e08e2618afd@cdcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 25\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20261018T140000Z
-SUMMARY:KÍ - B68 -:-
-UID:b5d7d6df-ce5e-4320-b9ed-27c059ba0fa3@b5d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 1\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:á Dungasandi
-DTSTART:20260308T150000Z
-SUMMARY:07 Vestur - KÍ 1:5
-UID:f4eac1e0-8d8c-4e24-8a3b-e53dc68e8f86@f4ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 11\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260525T140000Z
-SUMMARY:KÍ - AB 2:1
-UID:c49a8c45-a351-444b-b6e6-d687d6859e1f@c49a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 16\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:við Løkin
-DTSTART:20260703T180000Z
-SUMMARY:NSÍ - KÍ 0:0
-UID:5a48c43b-a533-42fb-a6df-23c067f246eb@5a48.org
+UID:a11d62db-e4ab-46b0-b6b4-ed65e3c310ca@a11d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 8\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -151,55 +71,23 @@ DURATION:PT2H
 LOCATION:Djúpumýra
 DTSTART:20260503T140000Z
 SUMMARY:KÍ - Skála ÍF 0:0
-UID:d595d8b5-e6e7-4d54-87d9-ce5fe8f02268@d595.org
+UID:8e564631-fb69-42d7-b9eb-2f0cf9f1e7cf@8e56.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 12\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 26\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
 DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260530T180000Z
-SUMMARY:KÍ - EB/Streymur 2:1
-UID:8e5bba75-038d-44ad-8a10-604ee73cccee@8e5b.org
+LOCATION:Gundadalur\, ovari vøllur
+DTSTART:20261025T150000Z
+SUMMARY:B36 - KÍ -:-
+UID:1a30123c-ac34-43e6-9c66-85755dafe1f7@1a30.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 15\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 22\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
 DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260628T140000Z
-SUMMARY:KÍ - 07 Vestur 0:1
-UID:75087305-8e10-4afc-940e-f5e3ae8da9af@7508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 6\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:inni í Vika
-DTSTART:20260420T173000Z
-SUMMARY:AB - KÍ 1:1
-UID:4c674f80-4de3-4a7c-b812-73029013cc4d@4c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 13\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:undir Mýruhjalla
-DTSTART:20260614T140000Z
-SUMMARY:Skála ÍF - KÍ 1:4
-UID:f727e397-8aa5-452f-9027-468fbc5606e7@f727.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 17\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20260802T140000Z
-SUMMARY:KÍ - B36 -:-
-UID:eb097ef7-adba-4a4c-bdc2-ea34bdb27b87@eb09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 27\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
-DURATION:PT2H
-LOCATION:Djúpumýra
-DTSTART:20261031T150000Z
-SUMMARY:KÍ - Víkingur -:-
-UID:0840f4b9-8105-4479-a79b-3b968802edfe@0840.org
+LOCATION:á Dungasandi
+DTSTART:20260913T140000Z
+SUMMARY:07 Vestur - KÍ -:-
+UID:f6e321bd-e58b-4b72-8ac9-a275c76a91df@f6e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 2\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -207,7 +95,119 @@ DURATION:PT2H
 LOCATION:Djúpumýra
 DTSTART:20260315T150000Z
 SUMMARY:KÍ - NSÍ 1:1
-UID:097a5250-50bf-4437-8d0e-18e13117d992@097a.org
+UID:ce5f4907-688d-4470-97ea-654a3b320e1c@ce5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 25\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20261018T140000Z
+SUMMARY:KÍ - B68 -:-
+UID:264c687b-1328-4e91-a682-9c22e0f86f53@264c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 10\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Svangaskarð\, ovari vøllur
+DTSTART:20260517T161500Z
+SUMMARY:B68 - KÍ 1:4
+UID:45c9ed4b-23cf-4ccc-8065-95086f4aa0bb@45c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 4\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260406T140000Z
+SUMMARY:KÍ - Víkingur 1:0
+UID:8b65e1be-2b77-4b0f-9c6f-10884546e04f@8b65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 16\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:við Løkin
+DTSTART:20260703T180000Z
+SUMMARY:NSÍ - KÍ 0:0
+UID:11ea6527-b44b-48aa-98c1-136cbff6d785@11ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 15\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260628T140000Z
+SUMMARY:KÍ - 07 Vestur 0:1
+UID:70a51e23-f78e-45df-9b5d-984d7743de6c@70a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 12\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260530T180000Z
+SUMMARY:KÍ - EB/Streymur 2:1
+UID:c3d32d15-d95d-4591-82c2-db8372fd8847@c3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 17\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260802T140000Z
+SUMMARY:KÍ - B36 -:-
+UID:f0a9194e-5be1-402f-acf4-76debb4e24e5@f0a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 6\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:inni í Vika
+DTSTART:20260420T173000Z
+SUMMARY:AB - KÍ 1:1
+UID:58411935-0a9e-4bf7-9003-17e2927d2648@5841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 18\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260807T170000Z
+SUMMARY:KÍ - HB -:-
+UID:a604c0fd-d40c-40cd-a2c8-c483a727c389@a604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 11\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260525T140000Z
+SUMMARY:KÍ - AB 2:1
+UID:bd3c7887-b7c3-4d3e-aa12-b1aaa751ec31@bd3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 23\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260918T173000Z
+SUMMARY:KÍ - Skála ÍF -:-
+UID:3cfdf41f-1f71-445a-aa11-5ffe110339bc@3cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 13\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:undir Mýruhjalla
+DTSTART:20260614T140000Z
+SUMMARY:Skála ÍF - KÍ 1:4
+UID:0e2260e1-50ac-464a-8c9e-581c0dd37d8a@0e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 27\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20261031T150000Z
+SUMMARY:KÍ - Víkingur -:-
+UID:4aaa7935-f198-4a0a-b9c6-a7c0e3334099@4aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 21\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
+DURATION:PT2H
+LOCATION:Djúpumýra
+DTSTART:20260830T140000Z
+SUMMARY:KÍ - EB/Streymur -:-
+UID:cee1d839-b7d5-4283-b2ba-b1b90483ff2d@cee1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🏆 Meistaradeildin menn\n🔁 Umfar: 9\n📅 Skrá & stigatalva: https://www.fsf.fo/kappingar-og-urslit/menn/meistaradeildin-menn/
@@ -215,6 +215,6 @@ DURATION:PT2H
 LOCATION:Gundadalur\, ovari vøllur
 DTSTART:20260509T160000Z
 SUMMARY:B36 - KÍ 1:1
-UID:b8794e61-0210-4577-9916-3d14600ad5ce@b879.org
+UID:b4c20b46-579f-43de-85d8-b9f84dcbd0a2@b4c2.org
 END:VEVENT
 END:VCALENDAR
